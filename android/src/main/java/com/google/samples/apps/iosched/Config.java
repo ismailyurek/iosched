@@ -82,7 +82,7 @@ public class Config {
     public static final String ANNOUNCEMENTS_PLUS_ID = "";
 
     // YouTube API config
-    public static final String YOUTUBE_API_KEY = "";
+    public static final String YOUTUBE_API_KEY = "AIzaSyCoXCinuBBoNV1rcvYJLhIdKEDcJ5pMR60";
 
     // YouTube share URL
     public static final String YOUTUBE_SHARE_URL_PREFIX = "http://youtu.be/";
